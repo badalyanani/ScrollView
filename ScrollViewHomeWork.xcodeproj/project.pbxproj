@@ -13,7 +13,6 @@
 		81BAC1022361C49600EACA00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81BAC1002361C49600EACA00 /* Main.storyboard */; };
 		81BAC1042361C49C00EACA00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81BAC1032361C49C00EACA00 /* Assets.xcassets */; };
 		81BAC1072361C49C00EACA00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81BAC1052361C49C00EACA00 /* LaunchScreen.storyboard */; };
-		81BAC10F2361C4C900EACA00 /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81BAC10E2361C4C900EACA00 /* image.jpg */; };
 		81BAC11B2361CE1000EACA00 /* ScrollViewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BAC11A2361CE1000EACA00 /* ScrollViewClass.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		81BAC1032361C49C00EACA00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81BAC1062361C49C00EACA00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81BAC1082361C49C00EACA00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		81BAC10E2361C4C900EACA00 /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
 		81BAC11A2361CE1000EACA00 /* ScrollViewClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +62,6 @@
 				81BAC0FC2361C49600EACA00 /* SceneDelegate.swift */,
 				81BAC0FE2361C49600EACA00 /* ViewController.swift */,
 				81BAC11A2361CE1000EACA00 /* ScrollViewClass.swift */,
-				81BAC10E2361C4C900EACA00 /* image.jpg */,
 				81BAC1002361C49600EACA00 /* Main.storyboard */,
 				81BAC1032361C49C00EACA00 /* Assets.xcassets */,
 				81BAC1052361C49C00EACA00 /* LaunchScreen.storyboard */,
@@ -134,7 +131,6 @@
 				81BAC1072361C49C00EACA00 /* LaunchScreen.storyboard in Resources */,
 				81BAC1042361C49C00EACA00 /* Assets.xcassets in Resources */,
 				81BAC1022361C49600EACA00 /* Main.storyboard in Resources */,
-				81BAC10F2361C4C900EACA00 /* image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
